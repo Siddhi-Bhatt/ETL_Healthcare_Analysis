@@ -4,6 +4,8 @@ An end-to-end **data analytics project** that analyzes healthcare admission reco
 
 This project demonstrates real-world data handling, database integration, dashboard storytelling, and business insights — similar to industry analytics workflows.
 
+## Demo
+[![Demo](https://img.shields.io/badge/Google%20Drive-Demo-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1eUEiE6MWWpwdn_JYbxgdEHM3939BxJ3A/view?usp=drive_link)
 ---
 
 ## 📌 Project Overview
